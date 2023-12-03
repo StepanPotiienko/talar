@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  font-weight: 400;
+  color: #8438;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.language-selector {
+  width: 80%;
+  height: 25vh;
+  margin-top: 3%;
+  background-color: blueviolet;
+}
